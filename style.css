@@ -1,4 +1,11 @@
 { margin:0; padding:0; border-box:box-sizing; }
+
+@font-face
+{font-family:alpha kufi regular;
+ src:url("alpha kufi regular.ttf");	
+
+
+}
 body{
 	color:#fff;
 	background-image:url('images/background.jpg');
@@ -8,10 +15,11 @@ body{
 	font-family: arial,helvetica, sans-serif;
 }
 h1{
-	font-size:7em;
 	line-height: 1em;
 	color: navy;
 }
 #slogan {
+	font-family:alpha kufi regular; 
 	font-style: italic;
+	font-size: 13px
 }
