@@ -20,6 +20,13 @@ body{
 h1{
 	line-height: 1em;
 	color:#B2002B;
+	text-shadow:
+    -1px -1px 0 #ff0,
+    0px -1px 0 #ff0,
+    1px -1px 0 #ff0,
+    -1px 1px 0 #ff0,
+    0px 1px 0 #ff0,
+    1px 1px 0 #ff0;
 }
 #slogan {
 	font-size:60px;
