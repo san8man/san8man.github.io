@@ -26,6 +26,15 @@ h1{
 	color:#52FF94;
 	font-family:alpha kufi regular; 
 	font-style: italic;
+	.strokeThis{
+    text-shadow:
+    -1px -1px 0 #ff0,
+    0px -1px 0 #ff0,
+    1px -1px 0 #ff0,
+    -1px 1px 0 #ff0,
+    0px 1px 0 #ff0,
+    1px 1px 0 #ff0;
+}
 	
 	
 }
