@@ -1,4 +1,4 @@
-{ margin:0; padding:0; border-box:box-sizing; }
+*{ margin:0; padding:0; border-box:box-sizing; }
 
 @font-face
 {font-family:alpha kufi regular;
@@ -8,11 +8,9 @@
 body{
 	color:#fff;
 	background-image:url('images/record.gif');
-    background-size:100%;
-    background-repeat: repeat-y;
-    background-attachment: fixed;
-    height:100%;
-    width:100%;
+	background-size:cover;
+	background:no-repeat;
+	background-attachment: fixed;
 	font-size:25px;
 	font-family: arial,helvetica, sans-serif;
 }
@@ -21,24 +19,24 @@ h1{
 	line-height: 1em;
 	color:#B2002B;
 	text-shadow:
-    -1px -1px 0 #ff0,
-    0px -1px 0 #ff0,
-    1px -1px 0 #ff0,
-    -1px 1px 0 #ff0,
-    0px 1px 0 #ff0,
-    1px 1px 0 #ff0;
+		-1px -1px 0 #ff0,
+		0px -1px 0 #ff0,
+		1px -1px 0 #ff0,
+		-1px 1px 0 #ff0,
+		0px 1px 0 #ff0,
+		1px 1px 0 #ff0;
 }
 #slogan {
 	font-size:60px;
 	color:#7DEDA3;
-	font-family:alpha kufi regular; 
+	font-family:'alpha kufi regular'; 
 	font-style: italic;
-    text-shadow:
-    -1px -1px 0 #ff0,
-    0px -1px 0 #ff0,
-    1px -1px 0 #ff0,
-    -1px 1px 0 #ff0,
-    0px 1px 0 #ff0,
-    1px 1px 0 #ff0;
+	text-shadow:
+	    -1px -1px 0 #ff0,
+	    0px -1px 0 #ff0,
+	    1px -1px 0 #ff0,
+	    -1px 1px 0 #ff0,
+	    0px 1px 0 #ff0,
+	    1px 1px 0 #ff0;
 }
 	
