@@ -2,24 +2,28 @@
 
 @font-face
 {font-family:alpha kufi regular;
- src:url("alpha kufi regular.ttf");	
+ src:url("alpha kufi regular.ttf");
+ color:#52FF94	
 
 
 }
 body{
 	color:#fff;
-	background-image:url('images/background.jpg');
-	background-attachment:fixed;
-	background-size:cover;
-	font-size:16px;
+	background-image:url('image/record.gif');
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+	font-size:25px;
 	font-family: arial,helvetica, sans-serif;
 }
 h1{
 	line-height: 1em;
-	color: navy;
+	color:#FF1951;
 }
 #slogan {
 	font-family:alpha kufi regular; 
 	font-style: italic;
-	font-size: 13px
+	font-size: 20px
 }
