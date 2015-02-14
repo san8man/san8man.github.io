@@ -3,13 +3,11 @@
 @font-face
 {font-family:alpha kufi regular;
  src:url("alpha kufi regular.ttf");
- color:#52FF94	
-
-
-}
+ 	
+ }
 body{
 	color:#fff;
-	background-image:url('image/record.gif');
+	background-image:url('images/record.gif');
     background-size:100%;
     background-repeat: repeat-y;
     background-attachment: fixed;
@@ -18,6 +16,7 @@ body{
 	font-size:25px;
 	font-family: arial,helvetica, sans-serif;
 }
+
 h1{
 	line-height: 1em;
 	color:#FF1951;
@@ -26,4 +25,5 @@ h1{
 	font-family:alpha kufi regular; 
 	font-style: italic;
 	font-size: 20px
+	color:#52FF94
 }
