@@ -19,14 +19,13 @@ body{
 
 h1{
 	line-height: 1em;
-	color:#FF1951;
+	color:#B2002B;
 }
 #slogan {
 	font-size:60px;
 	color:#52FF94;
 	font-family:alpha kufi regular; 
 	font-style: italic;
-	.strokeThis{
     text-shadow:
     -1px -1px 0 #ff0,
     0px -1px 0 #ff0,
@@ -36,5 +35,3 @@ h1{
     1px 1px 0 #ff0;
 }
 	
-	
-}
