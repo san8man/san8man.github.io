@@ -1,4 +1,4 @@
-*{ margin:0; padding:0; border-box:box-sizing; }
+*{ margin:0; padding:0; box-sizing:border-box; }
 
 @font-face
 {font-family:alpha kufi regular;
@@ -9,7 +9,7 @@ body{
 	color:#fff;
 	background-image:url('images/record.gif');
 	background-size:cover;
-	background:no-repeat;
+	background-repeat:no-repeat;
 	background-attachment: fixed;
 	font-size:25px;
 	font-family: arial,helvetica, sans-serif;
