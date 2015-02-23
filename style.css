@@ -20,24 +20,24 @@ h1{
 	line-height: 1em;
 	color:#B2002B;
 	text-shadow:
-		-1px -1px 0 #ff0,
-		0px -1px 0 #ff0,
-		1px -1px 0 #ff0,
-		-1px 1px 0 #ff0,
-		0px 1px 0 #ff0,
-		1px 1px 0 #ff0;
+		-1px -1px 0 #000,
+		0px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		0px 1px 0 #000,
+		1px 1px 0 #000;
 }
 #slogan {
 	font-size:60px;
-	color:#FF831B;
+	color:#1BEBA8;
 	font-family:'alpha kufi regular'; 
 	font-style: italic;
 	text-shadow:
-	    -1px -1px 0 #ff0,
-	    0px -1px 0 #ff0,
-	    1px -1px 0 #ff0,
-	    -1px 1px 0 #ff0,
-	    0px 1px 0 #ff0,
-	    1px 1px 0 #ff0;
+	    -1px -1px 0 #000,
+	    0px -1px 0 #000,
+	    1px -1px 0 #000,
+	    -1px 1px 0 #000,
+	    0px 1px 0 #000,
+	    1px 1px 0 #000;
 }
 	
