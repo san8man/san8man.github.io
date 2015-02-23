@@ -6,9 +6,10 @@
  	
  }
 body{
+	text-align: center;
 	color:#fff;
 	background-image:url('images/record.gif');
-	background-size:cover;
+	background-size:;
 	background-repeat:no-repeat;
 	background-attachment: fixed;
 	font-size:25px;
