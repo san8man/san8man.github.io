@@ -6,17 +6,22 @@
  	
  }
 body{
-	text-align: center;
-	color:#fff;
-	background-image:url('images/record.gif');
+	text-align: ;
+	color:;
 	background-size:;
 	background-repeat:no-repeat;
 	background-attachment: fixed;
 	font-size:25px;
 	font-family: arial,helvetica, sans-serif;
 }
+h1,h2{
+	text-transform: uppercase;
+	border-bottom: 4px solid black;
+	display: inline-block;
+}
 
 h1{
+	font-size:  2em;
 	line-height: 1em;
 	color:#B2002B;
 	text-shadow:
@@ -27,9 +32,13 @@ h1{
 		0px 1px 0 #000,
 		1px 1px 0 #000;
 }
+h2{
+	font-size: 1.5em;
+	padding: .8em 0;
+}
 #slogan {
 	font-size:60px;
-	color:#1BEBA8;
+	color:#000;
 	font-family:'alpha kufi regular'; 
 	font-style: italic;
 	text-shadow:
@@ -40,4 +49,17 @@ h1{
 	    0px 1px 0 #000,
 	    1px 1px 0 #000;
 }
-	
+img {
+	display: block;
+	margin: 0 auto;
+}
+ul{
+	list-style: none;
+	margin:0;
+	padding:0;
+}
+	footer{
+		text-align: center;
+		padding: 1em 0;
+	}
+	}
