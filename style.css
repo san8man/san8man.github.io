@@ -58,6 +58,11 @@ ul{
 	margin:0;
 	padding:0;
 }
+#music {
+	width: 50%;
+	margin: 10px;
+
+}
 	footer{
 		text-align: center;
 		padding: 1em 0;
