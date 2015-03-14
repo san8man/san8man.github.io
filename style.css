@@ -41,6 +41,12 @@ h2{
 	color:#000;
 	font-family:'alpha kufi regular'; 
 	font-style: italic;
+	border:.2em #000 solid;
+	color:#000;
+	display:block;
+	margin-top:3em;
+	padding:1.5em 0;
+	text-align:;
 	text-shadow:
 	    -1px -1px 0 #000,
 	    0px -1px 0 #000,
@@ -61,6 +67,9 @@ ul{
 #music {
 	width: 40%;
 	margin: 10px;
+	float:left;
+	padding:0 1em;
+	width:33.33%;
 
 }
 	footer{
