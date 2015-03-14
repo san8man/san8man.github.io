@@ -15,8 +15,8 @@ body{
 	font-family: arial,helvetica, sans-serif;
 }
 h1,h2{
+	font-family: georgia, sans-serif
 	text-transform: uppercase;
-	border-bottom: 4px solid black;
 	display: inline-block;
 }
 
@@ -45,7 +45,7 @@ h2{
 	color:#000;
 	display:block;
 	margin-top:;
-	padding:1.5em 0;
+	padding:.5em 0;
 	text-align:center;
 	text-shadow:
 	    -1px -1px 0 #000,
@@ -70,6 +70,12 @@ ul{
 	margin:.5%
 	padding:1em 2em 1em 1em;
 	width:49%;
+}
+.columns {
+	float:left;
+	padding:0 1em;
+	width:33.33%;
+}
 
 }
 	footer{
