@@ -4,7 +4,7 @@
 	box-sizing: border-box;
 }
 @font-face{font-family:jaapokkienchance-regular;
-src:url("jaapokkienchance-regular.ttf")
+src:url("jaapokkienchance-regular.ttf"); /* missed this earlier, but you didn't close this property */
 } /* missing closing brace */
 body{
 	background-image: url("images/blue.jpg");
