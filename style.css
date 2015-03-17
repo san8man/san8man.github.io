@@ -64,6 +64,25 @@ ul{
 	margin:0;
 	padding:0;
 }
+/* grid */
+.row {
+  margin: 0 -10px;
+  margin-bottom: 20px;
+}
+.row:last-child {
+  margin-bottom: 0;
+}
+[class*="col-"] {
+  padding: 10px;
+}
+ 
+@media all and ( min-width: 600px ) {
+ 
+.col-2-3 {
+    float: left;
+    width: 66.66%;
+  }
+  
 #music {
 	
 	float:left;
@@ -71,16 +90,10 @@ ul{
 	padding:1em 2em 1em 1em;
 	width:49%;
 }
-.columns {
-	float:left;
-	padding:0 1em;
-	width:33.33%;
-}
 
-}
 	footer{
 		text-align: center;
 		padding: 1em 0;
 		clear: both;
 	}
-	}
+	

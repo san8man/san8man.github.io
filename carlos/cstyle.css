@@ -1,0 +1,109 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+@font-face
+{font-family:jaapokkienchance-regular;
+src:url("jaapokkienchance-regular.ttf")
+body{
+	background-image: url("images/blue.jpg");
+	font-size: 18px;
+	margin: 0 ;
+}
+
+nav {
+	margin-top: 3em;
+	background-color: #FFFFFF;
+}
+ul{
+	text-align: center;
+}
+li{
+	display: inline;
+	margin: 0 3em;
+}
+a{
+	text-decoration: none;
+	list-style-type: none;
+	color: #005F7F;
+	background-color: #FFFFFF;
+	display: inline-block;
+	padding: 1em 3em;
+	text-align: center;
+}
+a:hover{
+	color: #DB6329;
+}
+section.mainContent{
+	background-color:rgba(255,138,82,.5);
+	color: #005F7F;
+	margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+	padding: 3em;
+	line-height: 1.25em;
+	max-width: 1200px;
+}
+.content{
+	background-color: #FFFFFF;
+	border: 1px #FFFFFF solid;
+	border-radius: .2em;
+}
+#css {
+	display: block;
+	padding: .5em .5em 0 .5em;
+	font-family:'jaapokkienchance-regular';
+	font-size: 2.5em;
+	
+}
+p{
+	background-color: #FFFFFF;
+	padding: 0 1em;
+	width: 380px;
+	padding: 1em;
+	margin-left: 2em;
+}
+#virtualpic{
+		text-align: right;
+		margin: -30em -1em 2em 0;
+}
+img {
+	background-color: #FFFFFF;
+	margin: 0 6em;
+}
+
+.main{
+	background-color: #FFFFFF;
+	font-size: 1.3em;
+	font-weight: 900;
+	padding: .5em 1em 0 1em;
+	margin: 0;
+}
+#contact{
+	margin-left: 2em;
+	margin-top: 1em;
+	padding: 0 .5em;
+	font-family: 'jaapokkienchance-regular';
+	font-weight: 700;
+	font-size:2.1em;
+	padding-bottom: 0em;
+}
+.info{
+	margin-top: .5em;
+	margin-left: 3.4em;
+	margin-bottom: 5em;
+}
+.info p{
+	padding: .1em;
+}
+
+.bolden{
+	font-weight: 900;
+}
+footer{
+ 	background-color:rgba(255,138,82,.3);
+}
+
+	
+
