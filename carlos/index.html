@@ -1,42 +1,43 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html> <!-- supposed to be lowercase -->
 <html>
 
 <head>
        <meta charset="UTF-8">
-       <link rel="stylesheet" type="text/css" href="cstyle.css"/>
+       <link rel="stylesheet" type="text/css" href="cstyle.css" />
        <title>Carlos Espiritu {Customised Software Solutions}</title>
 </head>
 <body>
-<div id="wrapper">
-        <img src="><"!--logo-->
-        <nav>
-             <ul>
-             <li><a href="index.html">Home</a></li>
-             <li><a href="#">Profile</a></li>
-             <li><a href="abtme">About Me</a></li>
-             <li><a href="resume">Resume</a></li>
-             <li><a href="contact.html">Contact</a></li>
-             </ul>
-
-  <header>
-  </header>
-  <section class="main">
-          <div class="content">
-          <p class="main"><h1 id="css">CUSTOMISED SOFTWARE SOLUTIONS</h1>
-             <p> My name is Carlos Espiritu. I am a professional software developer scoping out potential clients interested in a customised software solution for their business. I am a promising hardworker possessing new talent, ready to contrbute work to the next big modern software company of today.
-          <div id="virtualpic"><img src="images/"virtualsoftware.jpg></div>
-         </div>
-         
-	 <h1  id="contact">Contact me.</h1>
-		<div class="info">
-			<p><span class="bolden">Carlos Espiritu</span></p>
-			<p><span class="bolden">Phone:</span> XXX.XXX.XXX</p>
-			<p><span class="bolden"> Email:</span> </p>
-		</div>
-       </section>
-       <section 
-       </section>
-          </div>
-          <footer></footer>
-       </body>
-       </html>
+	<div id="wrapper">
+	        <img src=""><!--logo--> <!-- you had the closing quotation makrs andthe comment messed up -->
+	        <nav>
+	             <ul>
+	             <li><a href="index.html">Home</a></li>
+	             <li><a href="#">Profile</a></li>
+	             <li><a href="abtme">About Me</a></li>
+	             <li><a href="resume">Resume</a></li>
+	             <li><a href="contact.html">Contact</a></li>
+	             </ul>
+		</nav> <!--missing closing nav tag -->
+		<header>
+		</header>
+		<section class="main">
+		        <div class="content">
+		        	<h1 id="css">CUSTOMISED SOFTWARE SOLUTIONS</h1> <!-- removed <p class="main"> from before h1. you don't wrap h tags in p tags -->
+		        	<p> My name is Carlos Espiritu. I am a professional software developer scoping out potential clients interested in a customised software solution for their business. I am a promising hardworker possessing new talent, ready to contrbute work to the next big modern software company of today.</p><!-- missing closing p tag -->
+		        	<div id="virtualpic">
+		        		<img src="images/"virtualsoftware.jpg>
+		        	</div> <!-- changed formatting of this div and child -->
+		        </div>
+			<h1  id="contact">Contact me.</h1>
+			<div class="info">
+				<p><span class="bolden">Carlos Espiritu</span></p>
+				<p><span class="bolden">Phone:</span> XXX.XXX.XXX</p>
+				<p><span class="bolden"> Email:</span> </p>
+			</div> <!--formatting -->
+		</section>
+		<section><!-- missing closing > -->
+		</section>
+	</div>
+	<footer></footer>
+</body>
+</html>
