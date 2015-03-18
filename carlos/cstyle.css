@@ -66,7 +66,7 @@ p{
 }
 #virtualpic{
 		text-align: right;
-		margin: -30em -1em 2em 0;
+		margin: 3em -1em 2em 0;
 }
 img {
 	background-color: #FFFFFF;
@@ -81,6 +81,7 @@ img {
 	margin: 0;
 }
 #contact{
+	float: right;
 	margin-left: 2em;
 	margin-top: 1em;
 	padding: 0 .5em;
