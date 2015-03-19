@@ -47,7 +47,7 @@ section.main{
 }
 .content{
 	background-color: #FFFFFF;
-	border: 1px #FFFFFF solid;
+	border: 1px,0,2px,0 #FFFFFF solid;
 	border-radius: .2em;
 }
 #css {
