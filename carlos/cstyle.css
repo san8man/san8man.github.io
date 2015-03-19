@@ -93,7 +93,7 @@ img {
 .info{
 	float: left;
 	margin-top: .5em;
-	margin-left: 0em;
+	margin-left: -2em;
 	margin-bottom: 5em;
 }
 .info p{
