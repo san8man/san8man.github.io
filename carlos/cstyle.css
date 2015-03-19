@@ -66,7 +66,7 @@ p{
 }
 #virtualpic{
 		text-align: right;
-		margin: -50em -1em 2em 0;
+		margin: -2em -1em 2em 0;
 }
 img {
 	background-color: #FFFFFF;
@@ -81,9 +81,8 @@ img {
 	margin: 0;
 }
 #contact{
-	float: right;
 	margin-left: 2em;
-	margin-top: 1em;
+	margin-top: 3em;
 	padding: 0 .5em;
 	font-family: 'jaapokkienchance-regular';
 	font-weight: 700;
@@ -91,11 +90,13 @@ img {
 	padding-bottom: 0em;
 }
 .info{
+	float: right;
 	margin-top: .5em;
 	margin-left: 3.4em;
 	margin-bottom: 5em;
 }
 .info p{
+	float: right;
 	padding: .1em;
 }
 
