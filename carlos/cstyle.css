@@ -40,7 +40,7 @@ section.main{
 	color: #005F7F;
 	margin-left: auto;
     margin-right: auto;
-    width: 70%;
+    width: 80%;
 	padding: 3em;
 	line-height: 1.25em;
 	max-width: 1200px;
@@ -48,8 +48,8 @@ section.main{
 .content{
 	text-align: center;
 	background-color: #FFFFFF;
-	border: 1px #FFFFFF solid;
-	border-radius: .2em;
+	border: 2px #FFFFFF solid;
+	border-radius: .3em;
 }
 #css {
 	display: block;
@@ -67,7 +67,7 @@ p{
 }
 #virtualpic{
 		text-align: right;
-		margin: -4em -1em 2em 0;
+		margin: -30em;
 }
 img {
 	background-color: #FFFFFF;
