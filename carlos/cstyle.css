@@ -51,10 +51,11 @@ section.main{
 	border-radius: .2em;
 }
 #css {
+	text-align: center;
 	display: block;
 	padding: .5em .5em .5em;
 	font-family:'jaapokkienchance-regular';
-	font-size: 2em;
+	font-size: 2.5em;
 	
 }
 p{
