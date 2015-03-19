@@ -91,13 +91,13 @@ img {
 	padding-bottom: 0em;
 }
 .info{
-	float: right;
+	float: left;
 	margin-top: .5em;
 	margin-left: 3.4em;
 	margin-bottom: 5em;
 }
 .info p{
-	float: right;
+	float: left;
 	padding: .1em;
 }
 
