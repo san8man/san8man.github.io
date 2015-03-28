@@ -17,6 +17,7 @@ body{
 h1,h2{
 	font-family: georgia, sans-serif
 	text-transform: uppercase;
+	border-bottom: 4px solid black
 	display: inline-block;
 }
 
@@ -32,6 +33,11 @@ h1{
 		-1px 1px 0 #000,
 		0px 1px 0 #000,
 		1px 1px 0 #000;
+}
+
+h2{
+	font-size: 1.5em;
+	padding: .8em 0;
 }
  
 #slogan {
@@ -65,11 +71,15 @@ ul{
 }
 /* grid */
 nav{
+	font-size: 1.8em;
 	text-align: center;
 	background-color: #FFFFFF;
+	float: right;
 }
 nav a{
-    margin:;
+	text-decoration: none;
+	color: black;
+    margin:1.8em;
     display: inline-block;
 }
 
