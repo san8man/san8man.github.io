@@ -40,12 +40,12 @@ h2{
 	font-size:80px;
 	color:#000;
 	font-family:'alpha kufi regular'; 
-	font-style: italic;
+	font-style:;
 	border:.2em #000 solid;
 	color:#000;
 	display:block;
 	margin-top:;
-	padding:.5em 0;
+	padding:.2em 0;
 	text-align:center;
 	text-shadow:
 	    -1px -1px 0 #000,
@@ -66,8 +66,9 @@ ul{
 }
 /* grid */
 nav{
+	text-align: center;
 	font-size: 1.8em;
-	float: right;
+	float: ;
 }
 nav a{
 	text-decoration: none;
