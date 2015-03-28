@@ -52,14 +52,15 @@ h1{
 	    0px 1px 0 #000,
 	    1px 1px 0 #000;
 }
-img {
-	display: block;
-	margin: 0 auto;
+#works{
+	margin-top: 2em;
 }
+
+
 ul{
 	list-style: none;
 	margin:0;
-	padding:0;
+	padding bottom: 1.5em;
 }
 /* grid */
 nav{
