@@ -67,14 +67,11 @@ ul{
 /* grid */
 nav{
 	text-align: center;
-	margin-top: 3em;
 	background-color: #FFFFFF;
 }
 nav a{
-	text-decoration: ;
-	color:#000000;
-	margin: 1.8em;
-	display: inline-block;
+    margin: 1.8em;
+    display: inline-block;
 }
 
 .row {
